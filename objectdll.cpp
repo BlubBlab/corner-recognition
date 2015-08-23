@@ -3,6 +3,7 @@
 
 #include "stdafx.h"
 #include "objectdll.h"
+using namespace cv;
 
 namespace ObjectScan {
 	// OpenCV-G.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
